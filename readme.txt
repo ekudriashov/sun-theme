@@ -31,6 +31,7 @@ The basic developing concept of the Sun - the content is really matters. Nothing
 1. In your admin panel, go to Appearance > Themes and click the Add New button.
 2. Click Upload and Choose File, then select the Sun theme's .zip file. Click Install Now.
 3. Click Activate and You are ready to roll...
+4. WARNING!!! Sun Theme need a REDUX Framework plugin installed. So after activation Submit REDUX installation and activate it.
 
 == Instructions (How to...) ==
 
