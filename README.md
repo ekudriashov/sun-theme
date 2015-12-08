@@ -41,6 +41,9 @@ The basic developing concept of the Sun - the content is really matters. Nothing
  * Every option in constructor is pretty well commented. Please just follow the instructions and everything will be OK.
  * I will try to answer any additional questions...
 
+#== Want to see an example? ==
+* Look at the sun_screenshots directory. It will produce your own idea... Just try.
+
 #== Frequently Asked Questions ==
 
 = Can I use Sun Theme for my own site? 
