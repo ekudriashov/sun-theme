@@ -76,7 +76,7 @@
 				</div>
 				<div class="col-md-6">
 					<p class="text-right">
-						Copyright &copy; <?php echo date('Y'); ?> - All rights reserved, Some_WEB. Design by: <a href="mailto:4150878@gmail.com?Subject=Developer%20wanted" rel="designer">Eugene Kudriashov</a>
+						Copyright &copy; <?php echo date('Y'); ?> - All rights reserved. Design by: <a href="http://ekudriashov.github.io/" target="_blank" rel="designer">Eugene Kudriashov</a>
 					</p>
 				</div>
 			</div>

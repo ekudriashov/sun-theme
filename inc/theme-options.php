@@ -107,7 +107,7 @@
     );
     // ADMIN BAR LINKS
     $args['admin_bar_links'][] = array(
-        'href'  => 'mailto:4150878@gmail.com?Subject=Help%20me%20to%20setUp',
+        'href'  => 'mailto:kudriashov.e@gmail.com?Subject=Help%20me%20to%20setUp',
         'title' => __( 'Want more functionality?', 'sun' ),
     );
     $args['admin_bar_links'][] = array(
@@ -120,7 +120,7 @@
     );
     // SOCIAL ICONS
     $args['share_icons'][] = array(
-        'url'   => 'mailto:4150878@gmail.com?Subject=Help%20me%20to%20setUp',
+        'url'   => 'mailto:kudriashov.e@gmail.com?Subject=Help%20me%20to%20setUp',
         'title' => 'Mail me...',
         'icon'  => 'el el-envelope-alt'
     );
@@ -140,7 +140,7 @@
         'icon'  => 'el el-github'
     );
     $args['intro_text'] = strtoupper('I can customize Sun Theme exactly to your needs, create a <b>CUSTOM THEME</b> according to your design or your HTML template');
-    $args['footer_text'] = '<p><b>Sun Theme</b> was created by <b>Eugene Kudriashov</b> with great love to humanity</p><p><a href="mailto:4150878@gmail.com?Subject=Help%20me%20to%20setUp">Get In Touch</a></p>';
+    $args['footer_text'] = '<p><b>Sun Theme</b> was created by <b>Eugene Kudriashov</b> with great love to humanity</p><p><a href="http://ekudriashov.github.io/" target="_blank">Get In Touch</a></p>';
     Redux::setArgs( $opt_name, $args );
     /*
      * END ARGUMENTS

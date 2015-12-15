@@ -46,7 +46,7 @@ add_action( 'after_setup_theme', 'sun_setup' );
  * Change footer text in dashboard.
  */
 function change_footer_admin () {
-	echo 'Sun Theme. Developed by Eugene Kudriashov. <a href="mailto:4150878@gmail.com?Subject=Developer%20wanted">MAIL ME</a> or HIRE ME on <a href="https://www.upwork.com/freelancers/~01133bc092335bb156">UPWORK</a>';  
+	echo 'Sun Theme. Developed by <a href="http://ekudriashov.github.io/" target="_blank" rel="designer">Eugene Kudriashov.</a> <a href="mailto:4150878@gmail.com?Subject=Developer%20wanted">MAIL ME</a> or HIRE ME on <a href="https://www.upwork.com/freelancers/~01133bc092335bb156">UPWORK</a>';  
 }
 add_filter('admin_footer_text', 'change_footer_admin');
 /*
